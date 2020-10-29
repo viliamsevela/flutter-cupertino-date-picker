@@ -162,6 +162,7 @@ Support:
 - bn: Bengali (BN)
 - bs: Bosnian (BS)
 - de: German (DE)
+- cs: Czech (CS)
 - es: Spanish (ES)
 - fr: French (FR)
 - hr: Croatian (HR)
